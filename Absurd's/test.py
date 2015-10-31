@@ -24,7 +24,7 @@ for x in range(1,5):
 
 # the %% is to format, the 2 after the decimal will only take 2 decimal places
 # I'm not too sure that the zero in 0.2 does, I think it has to do with spacing
-# f stands for float I believe
+# f stands for float I believe, which is a type of number with decimals
 s = "Numbers formatting: %0.2f"% (356.08977)
 print (s)
 
